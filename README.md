@@ -1,4 +1,4 @@
-![inventory](https://github.com/user-attachments/assets/5e926444-e21e-4f09-8cc9-3efeac094af4)# dashboard-admin
+# dashboard-admin
 This dashboard is for an ecommerce admin. It contains a dashboard for overseeing revenue, a product registration page, and inventory list view.
 All navigating through a side bar.
 # Dashboard page
@@ -11,7 +11,7 @@ Allows the user to add new products with product gallery
 
 # Inventory Page
 Last but not the least, this page shows product lists with sort and search option
-![Uploading inventory.JPG…]()
+![inventory](https://github.com/user-attachments/assets/5e926444-e21e-4f09-8cc9-3efeac094af4)
 
 
 
